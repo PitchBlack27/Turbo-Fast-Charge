@@ -1,2 +1,2 @@
 # ⚡TurboFastCharge by PitchBlack⚡
-# speed up your charging up to 3500ma and maximum temperature 48°
+<h1 align="center"><b> ⚡️TurboFastCharge by PitchBlack⚡️ </b></h1>
